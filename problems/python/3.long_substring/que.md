@@ -1,7 +1,5 @@
 
----
-
-3. Longest Substring Without Repeating Characters
+# 3. Longest Substring Without Repeating Characters
 
 Difficulty: Medium
 Topics: String, Sliding Window, Hash Set
@@ -36,5 +34,3 @@ Constraints:
 Additional Info:
 
 * This question has appeared in real interviews.
-
----

@@ -1,7 +1,4 @@
-
----
-
-2. Add Two Numbers
+# 2. Add Two Numbers
 
 Difficulty: Medium
 Topics: Linked List, Math
@@ -32,6 +29,3 @@ Constraints:
 * The number of nodes in each linked list is in the range [1, 100]
 * 0 ≤ Node.val ≤ 9
 * It is guaranteed that the linked list represents a number without leading zeros
-
----
-

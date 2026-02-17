@@ -1,7 +1,4 @@
-
----
-
-1. Two Sum
+# 1. Two Sum
 
 Difficulty: Easy
 Topics: Array, Hash Table
@@ -37,7 +34,3 @@ Constraints:
 * −10⁹ ≤ nums[i] ≤ 10⁹
 * −10⁹ ≤ target ≤ 10⁹
 * Only one valid answer exists.
-
-
----
-
